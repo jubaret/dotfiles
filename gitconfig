@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = julienco@gmail.com
+	name = julien baret
